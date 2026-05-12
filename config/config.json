@@ -1,0 +1,37 @@
+{
+  "loja": {
+    "nome": "Sistema Core Tech",
+    "slogan": "Qualidade e preço justo!",
+    "cnpj": "",
+    "telefone": "",
+    "endereco": "",
+    "cidade": "",
+    "estado": ""
+  },
+  "tema": {
+    "cor_primaria": "#6c63ff",
+    "cor_secundaria": "#00d4aa",
+    "cor_fundo": "#0a0a0f",
+    "cor_texto": "#e8e8f0",
+    "cor_perigo": "#ff5f57",
+    "cor_sucesso": "#00d4aa",
+    "cor_aviso": "#ffbd2e",
+    "fonte": "Arial"
+  },
+  "logo": {
+    "caminho": "assets/logo_padrao.png",
+    "largura": 120,
+    "altura": 60
+  },
+  "impressora": {
+    "ativa": false,
+    "nome": "",
+    "largura_cupom": 34
+  },
+  "sistema": {
+    "versao": "1.0.0",
+    "desenvolvido_por": "Core Tech",
+    "site": "https://coretech.netlify.app",
+    "contato": "contato.coretech@proton.me"
+  }
+}
