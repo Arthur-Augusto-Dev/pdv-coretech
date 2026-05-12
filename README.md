@@ -8,7 +8,7 @@ de responsabilidades, dividindo o sistema em três camadas principais: core (ló
 Para entender melhor o funcionamento do sistema e como utilizá-lo, acesse os documentos abaixo:
 
 - Explicação detalhada das tecnologias, arquitetura do código e lógica do sistema;
-* [📄 **Documentação Técnica**](docs/documentacao_tecnica.pdf)
+* [📄 **Documentação Técnica**](https://github.com/Arthur-Augusto-Dev/pdv-coretech/blob/main/documentos/PDV_CoreTech_Documentacao_Tecnica.pdf)
 
 - Guia prático com o passo a passo para operar o PDV;
 * [📘 **Manual do Usuário**](docs/manual_usuario.pdf) 
