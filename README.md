@@ -11,4 +11,4 @@ Para entender melhor o funcionamento do sistema e como utilizá-lo, acesse os do
 * [📄 **Documentação Técnica**](https://github.com/Arthur-Augusto-Dev/pdv-coretech/blob/main/documentos/PDV_CoreTech_Documentacao_Tecnica.pdf)
 
 - Guia prático com o passo a passo para operar o PDV;
-* [📘 **Manual do Usuário**](docs/manual_usuario.pdf) 
+* [📘 **Manual do Usuário**](https://github.com/Arthur-Augusto-Dev/pdv-coretech/blob/main/documentos/PDV_CoreTech_Manual_Usuario.pdf) 
